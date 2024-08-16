@@ -12,8 +12,9 @@ qitong象征麒麟和统信
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
- -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：青稚酱_Miss
- -   
+ -   <a href="https://space.bilibili.com/486352915"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：青稚酱_Miss
+ -   <a href="https://blog.linux-qitong.top"><code><img height="20" width="50" src="./images/favicon.ico"></code></a>：青稚的空间
+   
 
 
 
