@@ -1,5 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
 ## 关于
 青稚，现实是一名学生
 deepin社区的版主
